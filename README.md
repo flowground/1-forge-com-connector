@@ -5,7 +5,7 @@
 A generated **flow**ground connector for the 1Forge Finance APIs API (version 0.0.1).
 
 Generated from: https://api.apis.guru/v2/specs/1forge.com/0.0.1/swagger.json<br/>
-Generated at: 2019-05-07T16:41:36+03:00
+Generated at: 2019-05-07T17:34:44+03:00
 
 ## API Description
 
@@ -31,7 +31,7 @@ This API does not require authorization.
 
 ## License
 
-flowground :- Telekom iPaaS / 1-forge-com-connector<br/>
+**flow**ground :- Telekom iPaaS / 1-forge-com-connector<br/>
 Copyright © 2019, [Deutsche Telekom AG](https://www.telekom.de)<br/>
 contact: flowground@telekom.de
 
