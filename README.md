@@ -1,11 +1,11 @@
-# ![LOGO](logo.png) 1Forge Finance APIs MSP Connector
+# ![LOGO](logo.png) 1Forge Finance APIs **flow**ground Connector
 
 ## Description
 
-A generated MSP connector for the 1Forge Finance APIs API (version 0.0.1).
+A generated **flow**ground connector for the 1Forge Finance APIs API (version 0.0.1).
 
 Generated from: https://api.apis.guru/v2/specs/1forge.com/0.0.1/swagger.json<br/>
-Generated at: 2019-05-07T11:15:08+03:00
+Generated at: 2019-05-07T16:41:36+03:00
 
 ## API Description
 
